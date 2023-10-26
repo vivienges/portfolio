@@ -121,7 +121,7 @@ h4 {
 }
 
 .about-margin {
-  margin: 48px 0px 0px 0px;
+  margin: 40px 0px 0px 0px;
 }
 
 body {
@@ -184,7 +184,6 @@ font-size: 22px;
 
 #work-info {
   width: 100%;
-  
 }
 
 #introduction {
@@ -254,18 +253,16 @@ color: black;
 
 }
 
-/* .about-item {
-
-
-  
-} */
+#work-header {
+font-weight: normal;
+}
 
 #work-hello {
   font-weight: normal;
   font-size: 64px;
 }
 
-#about-title {
+.heading {
   font-weight: normal;
   font-size: 32px;
 }
@@ -274,6 +271,11 @@ color: black;
   font-weight: lighter;
   margin: 0px 0px 200px 0px;
   font-size: 52px;
+}
+
+#about-title {
+  font-weight: normal;
+  font-size: 32px;
 }
 
 #about-text {
@@ -370,10 +372,10 @@ color: black;
   .overlay {
 background: white;
 position: fixed;
-top: 150px;
+top: 75px;
 left: 0;
 width: 100%;
-height: 30%;
+height: 20%;
 
   }
 
@@ -386,6 +388,7 @@ height: 30%;
   .menu {
     display: none;
     text-align: center;
+    padding: 40px 0px 0px 0px;
   }
 
 
@@ -394,7 +397,23 @@ height: 30%;
     
   }
 
+  .nav {
+    width: 100%;
+    background: white;
+    position: fixed;
+    top: 0px;
+    padding: 48px 0px 32px;
+  }
+
+  .nav-item::after {
+    visibility: hidden;
+  }
+
   .nav-item .active::after {
+    visibility: hidden;
+  }
+
+  /* .nav-item .active::after {
     content: "";
     position: absolute;
     width: 20px; 
@@ -402,8 +421,8 @@ height: 30%;
     left: 310px; 
     bottom: 1px;   
     background-color: black;
-  }
-
+  } */
+/* 
   .nav-item::after {
     content: "";
     position: absolute;
@@ -415,9 +434,10 @@ height: 30%;
     transition: 0.3s ease-in-out; 
   }
 
+
   .nav-item:hover::after {
     width: 20px;
-  }
+  } */
 
   .desktop {
     display: none;
@@ -436,7 +456,7 @@ height: 30%;
   content: "";
   position: relative;
   width: 25px; 
-  height: 3px;
+  height: 2px;
   bottom: 0px;   
   background-color: black;
   }
@@ -445,8 +465,8 @@ height: 30%;
     content: "";
     position: relative;
     width: 20px; 
-    height: 3px;
-    bottom: -3px;   
+    height: 2px;
+    margin-top: 4px;   
     background-color: black;
     margin-left: 5px;
 
@@ -457,7 +477,7 @@ height: 30%;
       position: relative;
       width: 15px; 
       height: 2px;
-      bottom: -6px;   
+      margin-top: 4px;   
       background-color: black;
       margin-left: 10px;
   
@@ -482,6 +502,18 @@ height: 30%;
   .project-image {
     height: 70%;
   
+  }
+
+  #quote-phrase {
+    font-size: 18px;
+  }
+
+  #quote-author {
+    font-size: 14px;
+  }
+
+  .content {
+    margin-top: 12rem;
   }
 
   #about {

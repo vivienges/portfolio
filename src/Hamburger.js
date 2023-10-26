@@ -21,10 +21,14 @@ const Hamburger = () => {
           isNavExpanded ? "menu overlay expanded" : "menu"
         }>
             <li class='nav-item'>
-              <NavLink to="/" end>Work</NavLink>
+              <NavLink to="/" end onClick={() => {
+          setIsNavExpanded(!isNavExpanded);
+        }}>Work</NavLink>
             </li>
             <li class='nav-item'>
-              <NavLink to="about">About</NavLink>
+              <NavLink to="about" onClick={() => {
+          setIsNavExpanded(!isNavExpanded);
+        }}>About</NavLink>
             </li>
           </ul>
         </div>
