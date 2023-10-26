@@ -1,15 +1,15 @@
 #thats-me {
-  font-weight: normal;
+  font-size: 22px;
 }
 
 .work-about {
   display: flex;
   gap: 10rem;
 }
-/* 
+
 #job-title {
-  font-size: 16px;
-} */
+  font-size: 18px;
+}
 
 #header {
   display: flex;
@@ -24,6 +24,7 @@
 
 .nav ul {
   list-style: none;
+  font-size: 18px;
 }
 
 .nav a {
@@ -105,7 +106,7 @@
 } */
 
 p {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 h1 {
@@ -191,7 +192,7 @@ color: black;
 
 .services {
   width: 25%;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .services ul {
@@ -256,7 +257,7 @@ color: black;
 
 #work-hello {
   font-weight: normal;
-  font-size: 80px;
+  font-size: 72px;
 }
 
 #about-title {
@@ -267,7 +268,7 @@ color: black;
 #work-statement {
   font-weight: lighter;
   margin: 0px 0px 200px 0px;
-  font-size: 64px;
+  font-size: 52px;
 }
 
 #about-text {
@@ -284,6 +285,7 @@ color: black;
   position: relative;
   bottom: 0;
   padding: 104px 0px 32px 0px;
+  font-size: 16px;
 }
 
 #footer div {
