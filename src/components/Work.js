@@ -45,12 +45,12 @@ export default class Work extends Component {
                 {/* <h3 id='work-statement'>I like <span class="bold purple">designing</span> digital <span class="bold turquoise">experiences</span> and helping people make their <span class="bold yellow">visions</span> visible to the world.</h3> */}
                 <h3 id='work-statement'>I'm a <span class="bold yellow">happy</span> and open-minded <span class="bold purple">designer</span> who likes creating digital <span class="bold turquoise">experiences</span> and helping people make their <span class="bold yellow">visions</span> visible to the world.</h3>
                 {/* <h3 id='work-statement'>I'm a happy and open-minded designer in Stockholm who likes creating digital experiences and helping people make their visions visible to the world.</h3> */}
-                <Grid container spacing={{sm: 4, md: 6}}>
+                <Grid container spacing={{xs: 4, md: 6}}>
                     {
                         portfolio.map(({id, company, title, image, url}) => {
                             return (
                     
-                    <Grid item sm ={12} md={6} xl={4} key={id}>
+                    <Grid item sm ={12} md={6} lg={4} key={id}>
                                 {/* <Link class="project-link" to={url}> */}
                                 <article key = {id} className='project-item'>
                         <img class="project-image" src={image} width="300px"></img>

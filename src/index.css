@@ -1,5 +1,6 @@
 #thats-me {
-  font-size: 22px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .work-about {
@@ -8,7 +9,7 @@
 }
 
 #job-title {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 #header {
@@ -24,7 +25,7 @@
 
 .nav ul {
   list-style: none;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .nav a {
@@ -114,9 +115,13 @@ h1 {
 }
 
 h4 {
+  margin: 0px;
   font-weight: 400;
-  margin: 48px 0px 0px 0px;
   font-size: 20px;
+}
+
+.about-margin {
+  margin: 48px 0px 0px 0px;
 }
 
 body {
@@ -141,13 +146,13 @@ code {
 
 .company {
   /* color: grey; */
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
 }
 
 .title {
   margin-top: 8px;
-  font-size: 24px;
+  font-size: 20px;
   color: grey;
   font-weight: 400;
 }
@@ -208,7 +213,7 @@ color: black;
   /* background: #F5F4F4; */
   transition: var(--transition);
   box-shadow: 1px 1px 10px #DDDDDD;
-  height: 30rem;
+  height: 26rem;
 
   
 }
@@ -257,12 +262,12 @@ color: black;
 
 #work-hello {
   font-weight: normal;
-  font-size: 72px;
+  font-size: 64px;
 }
 
 #about-title {
   font-weight: normal;
-  font-size: 36px;
+  font-size: 32px;
 }
 
 #work-statement {
@@ -285,7 +290,7 @@ color: black;
   position: relative;
   bottom: 0;
   padding: 104px 0px 32px 0px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 #footer div {
@@ -461,11 +466,11 @@ height: 30%;
       
 
   #work-hello {
-    font-size: 52px;
+    font-size: 48px;
   }
 
   #work-statement {
-    font-size: 36px;
+    font-size: 32px;
     margin: 0px 0px 100px 0px;
   }
 

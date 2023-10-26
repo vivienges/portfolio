@@ -22,9 +22,9 @@ export default class About extends Component {
 <p>In my design work, I strive for a human-centered approach and I value authenticity and sincerity towards the user. </p>
 
 
-                <h4>Why I do what I do</h4>
+                <h4 class="about-margin">Why I do what I do</h4>
                 <p>Having a background in web and app development, I used to be on the tech side despite my creative streak. Over the last few years, my curiosity about human psychology has grown and I've been trying to understand why people act the way they do ever since. UX allows me to dive in deeper into people's minds and combine this with my technical and creative skills to design digital interfaces with thought. Innovation can bring great change in the world and I hope to contribute to that. Even if only a little bit. </p>
-                <h4>What I also do</h4>
+                <h4 class="about-margin">What I also do</h4>
                 <p>I like walking in the sun and along the water, drinking coffee, riding boards on snow or asphalt, discovering new music, shooting analogue, having deep conversations, going to live gigs, watching sunsets and celebrating life, with friends or alone. Sometimes I do several of these things at once.</p>
                 {/* <p>In my spare time you can usually find me somewhere in the sun or on a board in the mountains or on the asphalt.</p> */}
                 {/* <h4>What's on my ears</h4>
