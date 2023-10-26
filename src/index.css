@@ -381,7 +381,7 @@ height: 20%;
 
   #hamburger-visibility {
     position: absolute;
-    right: 10%;
+    right: 96px;
   }
 
 
@@ -402,7 +402,8 @@ height: 20%;
     background: white;
     position: fixed;
     top: 0px;
-    padding: 48px 0px 32px;
+    left: 0;
+    padding: 48px 32px 32px 32px;
   }
 
   .nav-item::after {
@@ -447,8 +448,7 @@ height: 20%;
   #hamburger {
     cursor: pointer;
     position: relative;
-    top: 20px;
-    right: 0px;
+    top: 16px;
     
   }
 
