@@ -5,15 +5,15 @@ import Hamburger from './Hamburger'
 
 const Navbar = () => {
 
-    var menuExpanded = document.getElementsByClassName("expanded")[0];
+    // var menuExpanded = document.getElementsByClassName("expanded")[0];
 
-    menuExpanded.addEventListener('click', handleMenuClick);
+    // menuExpanded.addEventListener('click', handleMenuClick);
 
-    function handleMenuClick(event) {
-      if (event.target instanceof HTMLAnchorElement) {
-        menuExpanded.classList.remove("expanded")
-      }
-    }
+    // function handleMenuClick(event) {
+    //   if (event.target instanceof HTMLAnchorElement) {
+    //     menuExpanded.classList.remove("expanded")
+    //   }
+    // }
 
     return (
       <>
