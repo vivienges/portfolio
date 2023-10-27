@@ -213,6 +213,7 @@ a {
 color: var(--text-color);
 }
 
+
 .services {
   width: 25%;
   font-size: 16px;
@@ -222,7 +223,6 @@ color: var(--text-color);
 .services ul {
   list-style: none;
   padding-left: 0px;
-  
 }
 
 .services ul li {
@@ -389,6 +389,10 @@ font-size: 22px;
   width: 100%;
 }
 
+.services-margin {
+  margin-top: 24px;
+}
+
 #about-image {
   margin-top: 32px;
 }
@@ -401,6 +405,15 @@ font-size: 22px;
   
   body {
     margin: 48px 2rem 0% 2rem;
+  }
+
+  #thats-me {
+    font-size: 16px;
+  }
+
+  #job-title {
+    font-size: 10px;
+    /* font-weight: bold; */
   }
 
   .overlay {

@@ -43,7 +43,7 @@ export default class Work extends Component {
             <section id='work' class='content'>
                 <h1 id='work-hello'>Hi, I'm <span class="">Vivien</span>.</h1>
                 {/* <h3 id='work-statement'>I <span class="">design</span> digital <span class="">experiences</span> and help people make their <span class="">visions</span> visible to the world.</h3> */}
-                <h3 id='work-statement'>I create digital experiences and help people make their lives easier through design so they can spend more time on the things they enjoy.</h3>
+                <h3 id='work-statement'>I create digital experiences and make people's lives easier through design so they can spend more time on the things they enjoy.</h3>
                 {/* <h3 id='work-statement'>A <span>happy</span> and open-minded <span class="yellow bold">designer</span> who likes creating digital <span class="purple bold">experiences</span> and helping people make their <span class="turqu bold">visions</span> visible to the world.</h3> */}
                 {/* <h3 id='work-statement'>I'm a happy and open-minded designer in Stockholm who likes creating digital experiences and helping people make their visions visible to the world.</h3> */}
                 <p id="work-subline" class="uppercase">B a s e d &nbsp; i n &nbsp; S t o c k h o l m &nbsp; a n d &nbsp; o p e n &nbsp; f o r &nbsp; r e m o t e &nbsp; a n d &nbsp; o n - s i t e &nbsp; p r o j e c t s.</p>
@@ -77,7 +77,7 @@ export default class Work extends Component {
                     <p>Whether you have your project already up and running or you need a whole concept from scratch for your idea, I am happy to support you at any stage of your project.</p>
                     <p>Want to work with me or say hi? <a class="contact" href="mailto:vivien-geschwind@live.de">Let’s have a coffee.</a> </p>
                     </div>
-                    <div class='services'>
+                    <div class='services services-margin'>
                         <h4>What&nbsp;I&nbsp;do</h4>
                         <ul>
                         <li>Qualitative User Research</li>
