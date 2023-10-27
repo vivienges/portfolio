@@ -6,7 +6,13 @@ const Footer = () => {
     return (
         <>
         <footer id="footer">
-            {/* <h4>Get in touch</h4> */}
+        <div id='quote'>
+                <div id='quote-phrase'>» People ignore design that ignores people «
+                </div>
+                <div id='quote-author' class="uppercase">F r a n k  &nbsp;  C h i m e r o
+                </div>
+                </div>
+            {/* <p>Get in touch</p> */}
         <div class="socials">
                 {/* <SocialButtonsContainer
   links={['https://www.linkedin.com/in/linkedin/viviengeschwind']}

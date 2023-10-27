@@ -21,8 +21,8 @@ const Navbar = () => {
           <div id="header">
           <span class="dot"></span>
           <div>
-        <h1 id='thats-me'><NavLink to="/" end>Vivien Geschwind</NavLink></h1>
-        <div id="job-title" class="uppercase">UI and UX Designer</div>
+        <h1 id='thats-me'><NavLink to="/" end>Vivien&nbsp;Geschwind</NavLink></h1>
+        <div id="job-title" class="uppercase">U I &nbsp; a n d &nbsp; U X &nbsp; D e s i g n e r</div>
         </div>
         </div>
         <div id="hamburger-visibility">

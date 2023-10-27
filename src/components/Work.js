@@ -41,10 +41,12 @@ export default class Work extends Component {
     render() {
         return (
             <section id='work' class='content'>
-                <h1 id='work-hello'>Hi, I'm Vivien.</h1>
-                {/* <h3 id='work-statement'>I like <span class="bold purple">designing</span> digital <span class="bold turquoise">experiences</span> and helping people make their <span class="bold yellow">visions</span> visible to the world.</h3> */}
-                <h3 id='work-statement'>I'm a <span class="bold yellow">happy</span> and open-minded <span class="bold purple">designer</span> who likes creating digital <span class="bold turquoise">experiences</span> and helping people make their <span class="bold yellow">visions</span> visible to the world.</h3>
+                <h1 id='work-hello'>Hi, I'm <span class="">Vivien</span>.</h1>
+                {/* <h3 id='work-statement'>I <span class="">design</span> digital <span class="">experiences</span> and help people make their <span class="">visions</span> visible to the world.</h3> */}
+                <h3 id='work-statement'>I create digital experiences and help people make their lives easier through design so they can spend more time on the things they enjoy.</h3>
+                {/* <h3 id='work-statement'>A <span>happy</span> and open-minded <span class="yellow bold">designer</span> who likes creating digital <span class="purple bold">experiences</span> and helping people make their <span class="turqu bold">visions</span> visible to the world.</h3> */}
                 {/* <h3 id='work-statement'>I'm a happy and open-minded designer in Stockholm who likes creating digital experiences and helping people make their visions visible to the world.</h3> */}
+                <p id="work-subline" class="uppercase">B a s e d &nbsp; i n &nbsp; S t o c k h o l m &nbsp; a n d &nbsp; o p e n &nbsp; f o r &nbsp; r e m o t e &nbsp; a n d &nbsp; o n - s i t e &nbsp; p r o j e c t s.</p>
                 <Grid container spacing={{xs: 4, md: 6}}>
                     {
                         portfolio.map(({id, company, title, image, url}) => {
@@ -67,21 +69,16 @@ export default class Work extends Component {
                             })
                         }
                 </Grid>
-                <div id='quote'>
-                <div id='quote-phrase'>"People ignore design that ignores people."
-                </div>
-                <div id='quote-author'>Frank Chimero
-                </div>
-                </div>
                 <div id='work-info'>
-                <h2 id="work-header">About my work</h2>
+                <h2 id="work-header" class="">About&nbsp;my&nbsp;work</h2>
                 <div class="work-about">
                     <div id='introduction'>
-                    <p>Good, thoughtful design is an essential ingredient for the success of every project. As a UI/UX Designer, I design websites and apps that address user needs in a user-friendly manner, with emerging technologies and trends in mind. Whether you have your project already up and running or you need a whole concept from scratch for your idea, I am happy to support you at any stage of your project.</p>
+                    <p>Good, thoughtful design is an essential ingredient for the success of every project. As a UI/UX Designer, I design websites and apps that address user needs in a user-friendly manner, with emerging technologies and trends in mind. I strive for a human-centered approach and I value authenticity and sincerity towards the user.</p>
+                    <p>Whether you have your project already up and running or you need a whole concept from scratch for your idea, I am happy to support you at any stage of your project.</p>
                     <p>Want to work with me or say hi? <a class="contact" href="mailto:vivien-geschwind@live.de">Let’s have a coffee.</a> </p>
                     </div>
                     <div class='services'>
-                        <h4>What I do</h4>
+                        <h4>What&nbsp;I&nbsp;do</h4>
                         <ul>
                         <li>Qualitative User Research</li>
                         <li>Concept</li>
@@ -90,7 +87,7 @@ export default class Work extends Component {
                         </ul>
                     </div>
                     <div class='services'>
-                        <h4>What I work with</h4>
+                        <h4>What&nbsp;I&nbsp;work&nbsp;with</h4>
                         <ul>
                             <li>Figma / Zeplin</li>
                             <li>Adobe Creative Cloud</li>
