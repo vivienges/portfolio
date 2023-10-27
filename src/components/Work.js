@@ -47,7 +47,7 @@ export default class Work extends Component {
                 {/* <h3 id='work-statement'>A <span>happy</span> and open-minded <span class="yellow bold">designer</span> who likes creating digital <span class="purple bold">experiences</span> and helping people make their <span class="turqu bold">visions</span> visible to the world.</h3> */}
                 {/* <h3 id='work-statement'>I'm a happy and open-minded designer in Stockholm who likes creating digital experiences and helping people make their visions visible to the world.</h3> */}
                 <p id="work-subline" class="uppercase">B a s e d &nbsp; i n &nbsp; S t o c k h o l m &nbsp; a n d &nbsp; o p e n &nbsp; f o r &nbsp; r e m o t e &nbsp; a n d &nbsp; o n - s i t e &nbsp; p r o j e c t s.</p>
-                <Grid container spacing={{xs: 4, md: 6}}>
+                <Grid id="grid" container spacing={{xs: 4, md: 6}}>
                     {
                         portfolio.map(({id, company, title, image, url}) => {
                             return (

@@ -3,6 +3,10 @@
   --yellow: #FFD772;
 }
 
+#grid {
+  display: none;
+}
+
 
 #thats-me {
   font-size: 20px;
@@ -521,6 +525,10 @@ height: 112px;
 
   #work-statement {
     font-size: 32px;
+  }
+
+  #work-subline {
+    margin: 0px 0px 96px 0px;
   }
 
 
