@@ -1,6 +1,7 @@
 :root { 
   --text-color: #212427;
-  --yellow: #FFD772;
+  --yellow: #FFE383;
+  --purple: #877BE7;
 }
 
 #grid {
@@ -15,7 +16,7 @@
 
 .work-about {
   display: flex;
-  gap: 10rem;
+  gap: 8rem;
 }
 
 #job-title {
@@ -60,7 +61,7 @@
 }
 
 .purple {
-  color: #877BE7;
+  color: var(--purple);
 }
 
 .turquoise {
@@ -128,8 +129,9 @@ h1 {
 
 h4 {
   margin: 0px;
-  font-weight: normal;
-  font-size: 18px;
+  font-weight: bold;
+  font-size: 14px;
+  /* color: #757678; */
   /* font-family: 'Droid Serif'; */
 }
 
@@ -166,9 +168,9 @@ code {
 
 .title {
   margin-top: 8px;
-  font-size: 20px;
-  color: grey;
-  font-weight: 400;
+  font-size: 18px;
+  color: #757678;
+  font-weight: normal;
 }
 
 .blue {
@@ -180,6 +182,16 @@ display: inline-flex;
 
 
 } */
+
+.float {
+  display: flex;
+  flex-direction: row;
+  gap: 10rem;
+}
+
+.float p {
+  width: 50%;
+}
 
 #quote {
 text-align: center;
@@ -232,7 +244,7 @@ color: var(--text-color);
 .project-item {
   /* background: #F5F4F4; */
   transition: var(--transition);
-  box-shadow: 1px 1px 10px #DDDDDD;
+  box-shadow: 0px 1px 6px #DDDDDD;
   height: 26rem;
 
   
@@ -312,6 +324,8 @@ font-size: 22px;
   font-size: 18px;
 }
 
+
+
 #portrait {
   width: 90%;
   display: block;
@@ -354,6 +368,56 @@ font-size: 22px;
   align-self: center;
 }
 
+.background {
+background: linear-gradient(180deg, white 50%, var(--yellow) 50% );
+display: inline-block;
+}
+
+.statement-background {
+  background: linear-gradient(180deg, white 50%, var(--yellow) 50% );
+  /* width: 170px; */
+  }
+
+  #spexor {
+    margin-top: 3rem;
+  }
+
+  .nda {
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  .project-list {
+    list-style: none;
+  }
+
+  .project-list li {
+    padding-bottom: 8px;
+  }
+
+  .project-img {
+    width: 100%;
+  }
+
+/* .yellow-background {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 10px;
+  bottom: 10px; 
+  background-color: var(--yellow);
+} */
+
+@media screen and (max-width: 1300px) {
+.work-about {
+  gap: 1rem;
+}
+
+#introduction {
+  margin-right: 1rem;
+}
+}
+
 
 
 @media screen and (max-width: 1024px) {
@@ -365,6 +429,11 @@ font-size: 22px;
   .content {
     margin-top: 6rem;
   }
+
+  #spexor {
+    margin-top: 3rem;
+  }
+
 
 #project-area {
   grid-template-columns: 1fr;
@@ -396,6 +465,7 @@ font-size: 22px;
 #about-image {
   margin-top: 32px;
 }
+
 
 }
 
@@ -499,6 +569,7 @@ height: 112px;
     
   }
 
+
   #line-1 {
   content: "";
   position: relative;
@@ -570,6 +641,12 @@ height: 112px;
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+
+  #spexor {
+    margin-top: 8rem;
+  }
+
+  
 
 
   .footer-flex {
