@@ -20,14 +20,14 @@ const portfolio = [
         title: "Designing a B2B app for Bosch startup spexor",
         image: IMG2,
         url: "bosch-spexor"
+    },
+    {
+        id: 2,
+        company: "JIBS Entrepreneurship Challenge",
+        title: "Gig economy app: unifi",
+        image: IMG3,
+        url: "unify-app"
     }
-    // {
-    //     id: 3,
-    //     company: "JIBS Entrepreneurship Challenge",
-    //     title: "Gig economy platform: unify",
-    //     image: IMG3,
-    //     url: "unify-app"
-    // }
 ]
 
 

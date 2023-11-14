@@ -2,11 +2,12 @@
   --text-color: #212427;
   --yellow: #FFE383;
   --purple: #877BE7;
+  --darkgrey: #757678;
 }
 
-#grid {
+/* #grid {
   display: none;
-}
+} */
 
 
 #thats-me {
@@ -26,13 +27,13 @@
 
 #header {
   display: flex;
+  align-self: center;
 }
 
 
 .nav {
   display: flex;
   justify-content: space-between;
-  margin-top: 0rem;
 }
 
 .nav ul {
@@ -44,6 +45,7 @@
   text-decoration: none;
   color: var(--text-color);
 }
+
 
 .dot {
   height: 32px;
@@ -62,6 +64,10 @@
 
 .purple {
   color: var(--purple);
+}
+
+.darkgrey {
+  color: var(--darkgrey);
 }
 
 .turquoise {
@@ -160,6 +166,30 @@ code {
   text-transform: uppercase;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.margin-top-48 {
+  margin-top: 48px;
+}
+
+.margin-top-32 {
+  margin-top: 32px;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
 .company {
   /* color: grey; */
   font-size: 14px;
@@ -169,7 +199,7 @@ code {
 .title {
   margin-top: 8px;
   font-size: 18px;
-  color: #757678;
+  color: var(--darkgrey);
   font-weight: normal;
 }
 
@@ -186,11 +216,19 @@ display: inline-flex;
 .float {
   display: flex;
   flex-direction: row;
+}
+
+.gap-10 {
   gap: 10rem;
 }
 
-.float p {
-  width: 50%;
+.project-description {
+  width: 60%;
+}
+
+.project-role {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 #quote {
@@ -254,6 +292,7 @@ color: var(--text-color);
   text-decoration: none;
   width: 100%;
   height: 30%;
+  
 
   
 }
@@ -311,7 +350,7 @@ font-size: 22px;
 #work-subline {
   font-size: 12px;
   font-weight: bold;
-  margin: 0px 0px 200px 0px;
+  margin: 0px 0px 164px 0px;
 }
 
 #about-title {
@@ -393,6 +432,16 @@ display: inline-block;
 
   .project-list li {
     padding-bottom: 8px;
+    width: 100%;
+  }
+
+  .width-30 {
+    width: 30%;
+    align-self: center;
+  }
+
+  .width-70 {
+    width: 70%;
   }
 
   .project-img {
