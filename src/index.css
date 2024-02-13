@@ -332,35 +332,31 @@ font-size: 22px;
 }
 
 #work-hello {
-  font-weight: bolder;
-  font-size: 48px;
-}
-
-.heading {
-  font-weight: normal;
-  font-size: 32px;
+  font-weight: 500;
+  font-size: 36px;
 }
 
 #work-intro {
-  /* font-family: Avenir Next, sans-serif; */
+  font-family: Avenir Next, sans-serif;
   margin: 0rem 20rem 0rem 20rem; 
 } 
 
 
 #work-statement {
+  font-family: europa, sans-serif;
   font-weight: lighter;
   margin: 0px 0px 40px 0px;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 #statement-underline {
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 #work-subline {
   font-size: 12px;
-  font-weight: bold;
+  font-weight: 600;
   color: var(--purple);
   margin: 0px 0px 164px 0px;
 }
@@ -675,11 +671,11 @@ height: 148px;
       }
 
   #work-hello {
-    font-size: 36px;
+    font-size: 26px;
   }
 
   #work-statement {
-    font-size: 26px;
+    font-size: 22px;
   }
 
   #work-subline {
@@ -687,7 +683,7 @@ height: 148px;
   }
 
   #statement-underline {
-  font-size: 18px;
+  font-size: 16px;
   }
 
 
