@@ -1,6 +1,7 @@
 
 import { Outlet, NavLink } from 'react-router-dom'
 import Hamburger from './Hamburger'
+import CV from './documents/CV_VivienGeschwind_en.pdf'
 
 
 const Navbar = () => {
@@ -35,6 +36,11 @@ const Navbar = () => {
             </li>
             <li class='nav-item'>
               <NavLink to="about">About</NavLink>
+            </li>
+            <li class='nav-item'>
+            <a href = {CV} target = "_blank">
+              CV
+              </a>
             </li>
           </ul>
           </div>

@@ -1,5 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import { useState } from 'react'
+import CV from './documents/CV_VivienGeschwind_en.pdf'
 
 
 const Hamburger = () => {
@@ -29,6 +30,13 @@ const Hamburger = () => {
               <NavLink to="about" onClick={() => {
           setIsNavExpanded(!isNavExpanded);
         }}>About</NavLink>
+            </li>
+            <li class='nav-item'>
+            <a href = {CV} target = "_blank" end onClick={() => {
+          setIsNavExpanded(!isNavExpanded);
+        }}>
+              CV
+              </a>
             </li>
           </ul>
         </div>

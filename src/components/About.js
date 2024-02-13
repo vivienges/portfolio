@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Portrait from '../images/Viv4.jpg'
-import Gallery from './Gallery'
 
 export default class About extends Component {
 
@@ -20,7 +19,7 @@ export default class About extends Component {
                 <h1 id='about-title'>Who I am</h1> 
                 {/* <p>I’m a sun-seeker, roamer and coffee enthusiast. Okay, let’s get serious now. </p> */}
                 {/* <h3 id='about-statement'>I design digital experiences and help people make their visions visible to the world.</h3> */}
-                <p>Hi, my name is Vivien and I’m a UI/UX designer based in Stockholm. I’m currently doing a master’s degree in User Experience and Interactive Media Design at Södertörn University. 
+                <p>Hi, my name is Vivien and I’m a UI/UX designer based in Stockholm. I’m currently doing a Master’s degree in User Experience and Interactive Media Design at Södertörn University. 
 </p> 
 {/* that even though we're all just small, seemingly insignificant individuals in this world, */}
 <p>In my previous work, I have mostly been involved in the startup environment. I like the spirit of people who put their whole heart into a cause because they truly believe in it. Innovation can bring great change and I’m thrilled if I can contribute to that. Even if only a little bit.  </p>

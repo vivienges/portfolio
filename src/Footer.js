@@ -1,4 +1,3 @@
-import SocialButtonsContainer from 'react-social-media-buttons'
 import IMG_Linkedin from './images/icons8-linkedin-30.png'
 import IMG_Mail from './images/icons8-mail-96.png'
 
