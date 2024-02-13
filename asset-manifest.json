@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdaecf4f.css",
+    "main.css": "/static/css/main.fa35f95c.css",
     "main.js": "/static/js/main.3662c858.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/Portfolio.pdf": "/static/media/Portfolio.3973ae097ba8898aa16e.pdf",
@@ -10,12 +10,12 @@
     "static/media/spexor4.png": "/static/media/spexor4.2c8412834f52313f890e.png",
     "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
     "index.html": "/index.html",
-    "main.bdaecf4f.css.map": "/static/css/main.bdaecf4f.css.map",
+    "main.fa35f95c.css.map": "/static/css/main.fa35f95c.css.map",
     "main.3662c858.js.map": "/static/js/main.3662c858.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdaecf4f.css",
+    "static/css/main.fa35f95c.css",
     "static/js/main.3662c858.js"
   ]
 }
