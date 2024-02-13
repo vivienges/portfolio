@@ -332,13 +332,14 @@ font-size: 22px;
 }
 
 #work-hello {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 36px;
 }
 
 #work-intro {
   font-family: Avenir Next, sans-serif;
-  margin: 0rem 20rem 0rem 20rem; 
+  margin: auto;
+  width: 660px;
 } 
 
 
@@ -474,9 +475,7 @@ display: inline-block;
   margin-right: 1rem;
 }
 
-#work-intro {
-  margin: 0rem 10rem 0rem 10rem; 
-} 
+
 }
 
 
@@ -485,10 +484,6 @@ display: inline-block;
 
   body {
     margin: 4rem 4rem 0px 4rem;
-  }
-
-  #work-intro {
-    margin: 0rem 8rem 0rem 8rem; 
   } 
 
   .content {
@@ -535,7 +530,6 @@ display: inline-block;
 }
 
 
-
 @media screen and (max-width: 768px) {
   
   body {
@@ -543,7 +537,7 @@ display: inline-block;
   }
 
   #work-intro {
-    margin: 0rem 2rem 0rem 2rem; 
+    width: 46px;
   } 
 
   #thats-me {
