@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.176693fd.chunk.css",
-    "main.js": "/static/js/main.befc3688.chunk.js",
-    "main.js.map": "/static/js/main.befc3688.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d8b9b21b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d8b9b21b.js.map",
-    "static/js/2.b3e90a64.chunk.js": "/static/js/2.b3e90a64.chunk.js",
-    "static/js/2.b3e90a64.chunk.js.map": "/static/js/2.b3e90a64.chunk.js.map",
-    "static/js/3.7c48ebb2.chunk.js": "/static/js/3.7c48ebb2.chunk.js",
-    "static/js/3.7c48ebb2.chunk.js.map": "/static/js/3.7c48ebb2.chunk.js.map",
+    "main.css": "/static/css/main.2b5455ac.css",
+    "main.js": "/static/js/main.572dddc1.js",
+    "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
+    "static/media/Portfolio.pdf": "/static/media/Portfolio.3973ae097ba8898aa16e.pdf",
+    "static/media/Viv4.jpg": "/static/media/Viv4.7dd0da0d62acbde41be5.jpg",
+    "static/media/CV_VivienGeschwind_en.pdf": "/static/media/CV_VivienGeschwind_en.5d5e49d8979bbf4335e3.pdf",
+    "static/media/grey_background.jpg": "/static/media/grey_background.27c8a0e040530488cd4b.jpg",
+    "static/media/spexor4.png": "/static/media/spexor4.2c8412834f52313f890e.png",
+    "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
     "index.html": "/index.html",
-    "static/css/main.176693fd.chunk.css.map": "/static/css/main.176693fd.chunk.css.map",
-    "static/js/2.b3e90a64.chunk.js.LICENSE.txt": "/static/js/2.b3e90a64.chunk.js.LICENSE.txt",
-    "static/media/000002.439beb31.JPG": "/static/media/000002.439beb31.JPG",
-    "static/media/000017.9a21c74e.JPG": "/static/media/000017.9a21c74e.JPG",
-    "static/media/000022.9ea5ed2b.JPG": "/static/media/000022.9ea5ed2b.JPG",
-    "static/media/000035.9048a412.jpg": "/static/media/000035.9048a412.jpg",
-    "static/media/025_FULL_01_500.9a6ef682.jpg": "/static/media/025_FULL_01_500.9a6ef682.jpg",
-    "static/media/75684944-F66A-4F5E-AC65-B59D53EDF1BA.b22d5fbf.jpg": "/static/media/75684944-F66A-4F5E-AC65-B59D53EDF1BA.b22d5fbf.jpg",
-    "static/media/Viv4.7dd0da0d.jpg": "/static/media/Viv4.7dd0da0d.jpg",
-    "static/media/grey_background.27c8a0e0.jpg": "/static/media/grey_background.27c8a0e0.jpg",
-    "static/media/spexor4.2c841283.png": "/static/media/spexor4.2c841283.png"
+    "main.2b5455ac.css.map": "/static/css/main.2b5455ac.css.map",
+    "main.572dddc1.js.map": "/static/js/main.572dddc1.js.map",
+    "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8b9b21b.js",
-    "static/js/2.b3e90a64.chunk.js",
-    "static/css/main.176693fd.chunk.css",
-    "static/js/main.befc3688.chunk.js"
+    "static/css/main.2b5455ac.css",
+    "static/js/main.572dddc1.js"
   ]
 }
