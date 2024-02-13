@@ -530,6 +530,7 @@ display: inline-block;
 }
 
 
+
 @media screen and (max-width: 768px) {
   
   body {
@@ -537,7 +538,8 @@ display: inline-block;
   }
 
   #work-intro {
-    margin: 0rem 2rem 0rem 2rem;
+    margin: auto;
+    height: 200px;
   } 
 
   #thats-me {
