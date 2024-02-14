@@ -9,6 +9,12 @@
   display: none;
 }
 
+#coming-soon {
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 52px;
+}
+
 
 #thats-me {
   font-size: 20px;
@@ -525,6 +531,10 @@ display: inline-block;
 #about-image {
   margin-top: 32px;
 }
+
+
+  
+
 
 
 }

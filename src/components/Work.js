@@ -53,6 +53,7 @@ export default class Work extends Component {
                 <p id="work-subline" class="uppercase">B a s e d &nbsp; i n &nbsp; S t o c k h o l m &nbsp; a n d &nbsp; o p e n &nbsp; f o r &nbsp; h y b r i d &nbsp; a n d &nbsp; o n - s i t e &nbsp; o p p o r t u n i t i e s</p>
                 </div>
                 <Grid id="grid" container spacing={{xs: 4, md: 6}}>
+                   
                     {
                     //    portfolio.map(({id, company, title, image, url}) => {
                    //         return (
@@ -77,6 +78,7 @@ export default class Work extends Component {
                         }
                 </Grid>
                 <div id='work-info'>
+                <div id='coming-soon'class="uppercase">W o r k &nbsp; s a m p l e s &nbsp; w i l l &nbsp; b e &nbsp; p u b l i s h e d &nbsp; s h o r t l y </div>
                 <h2 id="work-header" class="">About&nbsp;my&nbsp;work</h2>
                 <div class="work-about">
                     <div id='introduction'>
