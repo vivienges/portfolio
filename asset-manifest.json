@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f165997.css",
+    "main.css": "/static/css/main.07523020.css",
     "main.js": "/static/js/main.eb9fe3f8.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/WorkSample_memoa.pdf": "/static/media/WorkSample_memoa.2464ed6d77cf35ca0804.pdf",
@@ -13,12 +13,12 @@
     "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
     "static/media/BackgroundGradient.png": "/static/media/BackgroundGradient.2efddc2ed7527cef5b86.png",
     "index.html": "/index.html",
-    "main.4f165997.css.map": "/static/css/main.4f165997.css.map",
+    "main.07523020.css.map": "/static/css/main.07523020.css.map",
     "main.eb9fe3f8.js.map": "/static/js/main.eb9fe3f8.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f165997.css",
+    "static/css/main.07523020.css",
     "static/js/main.eb9fe3f8.js"
   ]
 }
