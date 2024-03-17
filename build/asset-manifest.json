@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b629451.css",
-    "main.js": "/static/js/main.793ce290.js",
+    "main.css": "/static/css/main.b6b45314.css",
+    "main.js": "/static/js/main.c1ebdccb.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
-    "static/media/Portfolio.pdf": "/static/media/Portfolio.3973ae097ba8898aa16e.pdf",
+    "static/media/WorkSample_memoa.pdf": "/static/media/WorkSample_memoa.2464ed6d77cf35ca0804.pdf",
+    "static/media/CV_VivienGeschwind_en.pdf": "/static/media/CV_VivienGeschwind_en.edeb3ef4e0eb3297faab.pdf",
     "static/media/Viv4.jpg": "/static/media/Viv4.7dd0da0d62acbde41be5.jpg",
-    "static/media/CV_VivienGeschwind_en.pdf": "/static/media/CV_VivienGeschwind_en.5d5e49d8979bbf4335e3.pdf",
+    "static/media/memoa2.png": "/static/media/memoa2.b032b62cae4289cb983e.png",
     "static/media/grey_background.jpg": "/static/media/grey_background.27c8a0e040530488cd4b.jpg",
     "static/media/spexor4.png": "/static/media/spexor4.2c8412834f52313f890e.png",
     "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
+    "static/media/BackgroundGradient.png": "/static/media/BackgroundGradient.2efddc2ed7527cef5b86.png",
     "index.html": "/index.html",
-    "main.2b629451.css.map": "/static/css/main.2b629451.css.map",
-    "main.793ce290.js.map": "/static/js/main.793ce290.js.map",
+    "main.b6b45314.css.map": "/static/css/main.b6b45314.css.map",
+    "main.c1ebdccb.js.map": "/static/js/main.c1ebdccb.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b629451.css",
-    "static/js/main.793ce290.js"
+    "static/css/main.b6b45314.css",
+    "static/js/main.c1ebdccb.js"
   ]
 }
