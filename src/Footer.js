@@ -1,5 +1,6 @@
 import IMG_Linkedin from './images/icons8-linkedin-30.png'
 import IMG_Mail from './images/icons8-mail-96.png'
+import IMG_heart from './images/heart.png'
 
 const Footer = () => {
     return (
@@ -21,7 +22,8 @@ const Footer = () => {
   <a href="http://www.linkedin.com/in/viviengeschwind" target='_blank'><img src={IMG_Linkedin} width='20px'></img></a>
             <a href="mailto:vivien-geschwind@live.de"><img src={IMG_Mail} width='20px'></img></a>
                 </div>
-            <div class="footer-flex"><span class="center">Copyright © 2023 Vivien Geschwind.&nbsp;</span><span class="center">All Rights Reserved.</span></div>
+            <div class="footer-flex"><span class="center">Copyright © 2024 Vivien Geschwind.&nbsp;</span><span class="center">All Rights Reserved.</span></div>
+            <div class="center" id="selfmade">Designed and programmed by me <img id='heart' src={IMG_heart} width='14px'></img></div>
         </footer>
         </>
     )

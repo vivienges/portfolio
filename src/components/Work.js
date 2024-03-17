@@ -50,7 +50,7 @@ export default class Work extends Component {
                 <h1 id='work-hello'>Hi, I'm <span class="">Vivien</span>!</h1>
                 {/* <h3 id='work-statement'>I <span class="">design</span> digital <span class="">experiences</span> and help people make their <span class="">visions</span> visible to the world.</h3> */}
                 {/* <h3 id='work-statement'>I'm passionate about creating digital experiences and <span class="">making people's lives easier</span> through design <br/><span id="statement-underline">so they can spend more time on the things they enjoy.</span></h3> */}
-                <h3 id='work-statement'>I'm a UI/UX Designer with 3 years experience in corporate and student startups. </h3>
+                <h3 id='work-statement'>I'm a UX Designer with 3 years experience in corporate and student startups. </h3>
                 {/* <h3 id='work-statement'>A <span>happy</span> and open-minded <span class="yellow bold">designer</span> who likes creating digital <span class="purple bold">experiences</span> and helping people make their <span class="turqu bold">visions</span> visible to the world.</h3> */}
                 {/* <h3 id='work-statement'>I'm a happy and open-minded designer in Stockholm who likes creating digital experiences and helping people make their visions visible to the world.</h3> */}
                 <p id="work-subline" class="uppercase">B a s e d &nbsp; i n &nbsp; S t o c k h o l m &nbsp; a n d &nbsp; o p e n &nbsp; f o r &nbsp; h y b r i d &nbsp; a n d &nbsp; o n - s i t e &nbsp; o p p o r t u n i t i e s</p>
@@ -86,7 +86,7 @@ export default class Work extends Component {
                 <h2 id="work-header" class="">About&nbsp;my&nbsp;work</h2>
                 <div class="work-about">
                     <div id='introduction'>
-                    <p>Good, thoughtful design is an essential ingredient for exceptional user experience. As a UI/UX Designer, I design digital interfaces that address user needs in a user-friendly manner. I strive for a human-centered approach, and I value authenticity and sincerity towards the user.</p>
+                    <p>Good, thoughtful design is an essential ingredient for exceptional user experience. As a UX Designer, I design digital interfaces that address user needs in a user-friendly manner. I strive for a human-centered approach, and I value authenticity and sincerity towards the user.</p>
                     <p>Whether you have your project already up and running or you need a whole concept from scratch for your idea, I am happy to support you at any stage of your project.</p>
                     <p>Want to work with me or say hi? <a class="contact" href="mailto:vivien-geschwind@live.de">Let’s have a coffee.</a> </p>
                     </div>

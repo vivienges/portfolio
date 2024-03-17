@@ -1,7 +1,7 @@
 
 import { Outlet, NavLink } from 'react-router-dom'
 import Hamburger from './Hamburger'
-import CV from './documents/CV_VivienGeschwind_en.pdf'
+import CV from './documents/CV_VivienGeschwind.pdf'
 
 
 const Navbar = () => {
@@ -23,7 +23,7 @@ const Navbar = () => {
           <span class="dot"></span>
           <div>
         <h1 id='thats-me'><NavLink to="/" end>Vivien&nbsp;Geschwind</NavLink></h1>
-        <div id="job-title" class="uppercase">U I &nbsp; a n d &nbsp; U X &nbsp; D e s i g n e r</div>
+        <div id="job-title">UX Designer</div>
         </div>
         </div>
         <div id="hamburger-visibility">

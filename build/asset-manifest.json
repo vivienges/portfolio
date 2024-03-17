@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6b45314.css",
-    "main.js": "/static/js/main.c1ebdccb.js",
+    "main.css": "/static/css/main.d1b1342b.css",
+    "main.js": "/static/js/main.aa7dc09a.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/WorkSample_memoa.pdf": "/static/media/WorkSample_memoa.2464ed6d77cf35ca0804.pdf",
     "static/media/CV_VivienGeschwind_en.pdf": "/static/media/CV_VivienGeschwind_en.edeb3ef4e0eb3297faab.pdf",
@@ -12,12 +12,12 @@
     "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
     "static/media/BackgroundGradient.png": "/static/media/BackgroundGradient.2efddc2ed7527cef5b86.png",
     "index.html": "/index.html",
-    "main.b6b45314.css.map": "/static/css/main.b6b45314.css.map",
-    "main.c1ebdccb.js.map": "/static/js/main.c1ebdccb.js.map",
+    "main.d1b1342b.css.map": "/static/css/main.d1b1342b.css.map",
+    "main.aa7dc09a.js.map": "/static/js/main.aa7dc09a.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b45314.css",
-    "static/js/main.c1ebdccb.js"
+    "static/css/main.d1b1342b.css",
+    "static/js/main.aa7dc09a.js"
   ]
 }
