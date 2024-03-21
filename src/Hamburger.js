@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import { useState } from 'react'
-import CV from './documents/CV_VivienGeschwind_en.pdf'
+import CV from './documents/CV_VivienGeschwind.pdf'
 
 
 const Hamburger = () => {
