@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.72198a32.css",
-    "main.js": "/static/js/main.cf7114b1.js",
+    "main.js": "/static/js/main.469f650a.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/Memoa.pdf": "/static/media/Memoa.fc788f5b09094a2c6ea7.pdf",
-    "static/media/Apartly.pdf": "/static/media/Apartly.f312fd7f3068db673f88.pdf",
+    "static/media/Apartly2.pdf": "/static/media/Apartly2.ce2cadccc2a86132fb16.pdf",
     "static/media/spexorCase.pdf": "/static/media/spexorCase.8080cc78b9b47594b269.pdf",
     "static/media/Viv4.jpg": "/static/media/Viv4.7dd0da0d62acbde41be5.jpg",
     "static/media/CV_Vivien.pdf": "/static/media/CV_Vivien.d91839a970c531952fde.pdf",
@@ -17,11 +17,11 @@
     "static/media/BackgroundGradient.png": "/static/media/BackgroundGradient.2efddc2ed7527cef5b86.png",
     "index.html": "/index.html",
     "main.72198a32.css.map": "/static/css/main.72198a32.css.map",
-    "main.cf7114b1.js.map": "/static/js/main.cf7114b1.js.map",
+    "main.469f650a.js.map": "/static/js/main.469f650a.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72198a32.css",
-    "static/js/main.cf7114b1.js"
+    "static/js/main.469f650a.js"
   ]
 }
