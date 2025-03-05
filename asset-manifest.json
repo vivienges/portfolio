@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed96a859.css",
-    "main.js": "/static/js/main.6d99690d.js",
+    "main.css": "/static/css/main.0888a3b4.css",
+    "main.js": "/static/js/main.e38555e4.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/Memoa.pdf": "/static/media/Memoa.fc788f5b09094a2c6ea7.pdf",
     "static/media/Apartly.pdf": "/static/media/Apartly.f312fd7f3068db673f88.pdf",
-    "static/media/spexorCase.pdf": "/static/media/spexorCase.8080cc78b9b47594b269.pdf",
-    "static/media/Viv4.jpg": "/static/media/Viv4.7dd0da0d62acbde41be5.jpg",
-    "static/media/CV_Vivien.pdf": "/static/media/CV_Vivien.d91839a970c531952fde.pdf",
-    "static/media/CV_VivienGeschwind.pdf": "/static/media/CV_VivienGeschwind.e59661f004110ce49c55.pdf",
+    "static/media/CaseStudy_Preview.pdf": "/static/media/CaseStudy_Preview.c1909e5a861b2e5a9200.pdf",
     "static/media/apartly_banner.png": "/static/media/apartly_banner.698eb7e2a35dc43faa40.png",
     "static/media/apartly7.png": "/static/media/apartly7.0528b6499dfe350d9ad2.png",
+    "static/media/CV_Vivien2025.pdf": "/static/media/CV_Vivien2025.0205939dc2ba91c76ac5.pdf",
     "static/media/memoa7.png": "/static/media/memoa7.12bdcf0679dbc313268b.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.77e5e37428fb31e95fd9.png",
     "static/media/spexor7.png": "/static/media/spexor7.cc37ec2cd5da7612a750.png",
     "static/media/spexor4.png": "/static/media/spexor4.2c8412834f52313f890e.png",
     "static/media/echallenge.JPG": "/static/media/echallenge.67109158e91ea7f3b62d.JPG",
     "static/media/BackgroundGradient.png": "/static/media/BackgroundGradient.2efddc2ed7527cef5b86.png",
     "static/media/figma.svg": "/static/media/figma.9f8c96f78fcadb92796cb0ee31dec3bc.svg",
     "index.html": "/index.html",
-    "main.ed96a859.css.map": "/static/css/main.ed96a859.css.map",
-    "main.6d99690d.js.map": "/static/js/main.6d99690d.js.map",
+    "main.0888a3b4.css.map": "/static/css/main.0888a3b4.css.map",
+    "main.e38555e4.js.map": "/static/js/main.e38555e4.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed96a859.css",
-    "static/js/main.6d99690d.js"
+    "static/css/main.0888a3b4.css",
+    "static/js/main.e38555e4.js"
   ]
 }
