@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.0888a3b4.css",
-    "main.js": "/static/js/main.e38555e4.js",
+    "main.js": "/static/js/main.83e4caab.js",
     "static/js/377.94515ba2.chunk.js": "/static/js/377.94515ba2.chunk.js",
     "static/media/Memoa.pdf": "/static/media/Memoa.fc788f5b09094a2c6ea7.pdf",
     "static/media/Apartly.pdf": "/static/media/Apartly.f312fd7f3068db673f88.pdf",
     "static/media/CaseStudy_Preview.pdf": "/static/media/CaseStudy_Preview.c1909e5a861b2e5a9200.pdf",
     "static/media/apartly_banner.png": "/static/media/apartly_banner.698eb7e2a35dc43faa40.png",
     "static/media/apartly7.png": "/static/media/apartly7.0528b6499dfe350d9ad2.png",
-    "static/media/CV_Vivien2025.pdf": "/static/media/CV_Vivien2025.0205939dc2ba91c76ac5.pdf",
     "static/media/memoa7.png": "/static/media/memoa7.12bdcf0679dbc313268b.png",
     "static/media/profile-pic.png": "/static/media/profile-pic.77e5e37428fb31e95fd9.png",
     "static/media/spexor7.png": "/static/media/spexor7.cc37ec2cd5da7612a750.png",
@@ -18,11 +17,11 @@
     "static/media/figma.svg": "/static/media/figma.9f8c96f78fcadb92796cb0ee31dec3bc.svg",
     "index.html": "/index.html",
     "main.0888a3b4.css.map": "/static/css/main.0888a3b4.css.map",
-    "main.e38555e4.js.map": "/static/js/main.e38555e4.js.map",
+    "main.83e4caab.js.map": "/static/js/main.83e4caab.js.map",
     "377.94515ba2.chunk.js.map": "/static/js/377.94515ba2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0888a3b4.css",
-    "static/js/main.e38555e4.js"
+    "static/js/main.83e4caab.js"
   ]
 }
